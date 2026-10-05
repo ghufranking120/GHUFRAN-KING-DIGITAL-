@@ -1,0 +1,35 @@
+[
+  {
+    "id": "GKD-MUUQJ36J",
+    "fullName": "Taimoor Khan",
+    "whatsappNumber": "03113106280",
+    "email": "taimoor@gmail.com",
+    "course": "MASTER AI AGENTS",
+    "message": "I want to join the upcoming live batch.",
+    "createdAt": "2026-10-05T04:13:46.075Z",
+    "status": "New",
+    "ipAddress": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "GKD-MUUQEKA2",
+    "fullName": "Ghufran king",
+    "whatsappNumber": "03113106280",
+    "email": "ghufrankingrdx12@gmail.com",
+    "service": "Business Setup Assistance",
+    "message": "Bsbsbsbsb",
+    "createdAt": "2026-10-05T04:10:14.954Z",
+    "status": "new",
+    "ipAddress": "::ffff:127.0.0.1"
+  },
+  {
+    "id": "GKD-MUUPLMAY",
+    "fullName": "Zain Malik",
+    "whatsappNumber": "03137442624",
+    "email": "zain@example.com",
+    "service": "Autonomous AI Agent & Chatbot",
+    "message": "Looking to automate our WhatsApp customer inquiries.",
+    "createdAt": "2026-10-05T03:47:44.554Z",
+    "status": "new",
+    "ipAddress": "::ffff:127.0.0.1"
+  }
+]
